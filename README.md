@@ -4,6 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I work at IT Park Tashkentas Software Enjineer in Python
+- 🔭 I work at IT Park Tashkent as Software Enjineer in Python
 - 👨‍🎓 I graduated TUIT in Tashkent
 - 💬 Ask me about "Learning Python"
