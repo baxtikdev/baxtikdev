@@ -4,6 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I work at 4DX IT company as Software Enjineer in Tashkent
+- 🔭 I work at UIC and 4DX IT companies as Software Enjineer in Tashkent
 - 👨‍🎓 I graduated TUIT in Tashkent
 - 💬 Ask me about "Learning Python"
